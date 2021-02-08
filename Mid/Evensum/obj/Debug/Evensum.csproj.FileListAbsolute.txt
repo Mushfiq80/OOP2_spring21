@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\CS code\Evensum\Evensum\bin\Debug\Evensum.exe.config
+C:\Users\ASUS\Desktop\CS code\Evensum\Evensum\bin\Debug\Evensum.exe
+C:\Users\ASUS\Desktop\CS code\Evensum\Evensum\bin\Debug\Evensum.pdb
+C:\Users\ASUS\Desktop\CS code\Evensum\Evensum\obj\Debug\Evensum.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CS code\Evensum\Evensum\obj\Debug\Evensum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CS code\Evensum\Evensum\obj\Debug\Evensum.exe
+C:\Users\ASUS\Desktop\CS code\Evensum\Evensum\obj\Debug\Evensum.pdb

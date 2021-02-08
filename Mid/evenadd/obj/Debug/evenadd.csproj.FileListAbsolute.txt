@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\CS code\Evensum\evenadd\bin\Debug\evenadd.exe.config
+C:\Users\ASUS\Desktop\CS code\Evensum\evenadd\bin\Debug\evenadd.exe
+C:\Users\ASUS\Desktop\CS code\Evensum\evenadd\bin\Debug\evenadd.pdb
+C:\Users\ASUS\Desktop\CS code\Evensum\evenadd\obj\Debug\evenadd.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CS code\Evensum\evenadd\obj\Debug\evenadd.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CS code\Evensum\evenadd\obj\Debug\evenadd.exe
+C:\Users\ASUS\Desktop\CS code\Evensum\evenadd\obj\Debug\evenadd.pdb
