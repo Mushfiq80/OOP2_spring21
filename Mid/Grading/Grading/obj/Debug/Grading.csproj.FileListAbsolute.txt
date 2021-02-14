@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\CS code\Mid\Grading\Grading\bin\Debug\Grading.exe.config
+C:\Users\ASUS\Desktop\CS code\Mid\Grading\Grading\bin\Debug\Grading.exe
+C:\Users\ASUS\Desktop\CS code\Mid\Grading\Grading\bin\Debug\Grading.pdb
+C:\Users\ASUS\Desktop\CS code\Mid\Grading\Grading\obj\Debug\Grading.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CS code\Mid\Grading\Grading\obj\Debug\Grading.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CS code\Mid\Grading\Grading\obj\Debug\Grading.exe
+C:\Users\ASUS\Desktop\CS code\Mid\Grading\Grading\obj\Debug\Grading.pdb
