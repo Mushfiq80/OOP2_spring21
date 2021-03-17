@@ -6,36 +6,34 @@ using System.Threading.Tasks;
 
 namespace Account
 {
-    class SpecialSavings:Account
+    class Overdraft:Account
     {
-        
-        public SpecialSavings() { }
-        public SpecialSavings(string accName, string accNo, double balance) : base(accName, accNo, balance)
+        public Overdraft() { }
+        public Overdraft(string accName, string accNo, double balance) : base(accName, accNo, balance)
         {
 
         }
-        
+        public double Limit = 5000;
         public override void Withdraw(double amount)
         {
-            if (Balance - amount >= ((Balance*20)/100))
+            if (amount <= Balance+Limit)
             {
-                Balance-= amount;
+                Balance -= amount;
                 Console.WriteLine("Your acc has been debited by {0} to self", amount);
             }
             else
             {
-                Console.WriteLine("Insufficient Balance: Min Balance 500");
+                Console.WriteLine("Insufficient Balance");
             }
         }
         public override void Transfer(Account acc, double amount)
         {
-            if (Balance - amount >= ((Balance * 20) / 100))
+            if (amount <= Balance)
             {
                 this.Balance -= amount;
                 acc.Balance += amount;
                 Console.WriteLine("Your acc has been debited by {0} to {1}({2})", amount, acc.AccName, acc.AccNo);
             }
         }
-
     }
 }
